@@ -1,0 +1,33 @@
+body{
+	background-color:green;
+}
+
+#wrapper{
+	width:1000px;
+  margin: 0 auto;
+}
+
+#Cont1{
+  float: left;
+	width:250px;
+	height: 250px;
+	background-color:blue;
+	padding:5px;
+}
+
+#Cont2{
+  float: right;
+	width:250px;
+	height:250px;
+	background-color:red;
+	padding:5px;
+}
+
+#Cont3{
+  position:fixed;
+  top:270px;
+  left:630px;
+  width:250px;
+	height:250px;
+  background-color:yellow;
+}

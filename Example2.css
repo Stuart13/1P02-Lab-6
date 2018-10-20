@@ -1,0 +1,45 @@
+body{
+	background-color:green;
+}
+
+#wrapper{
+	width:750px;
+  margin: 0 auto;
+	background-color:white;
+}
+
+#header{
+	height:75px;
+	text-align:center;
+  background-color: red;
+}
+
+#firstnavl{
+	float:left;
+	width:200px;
+	height: 75px;
+	background-color:pink;
+	padding-left:5px;
+  padding-right:5px;
+}
+
+#firstnavr{
+	float:right;
+	width:530px;
+	height:75px;
+	background:orange;
+	padding-left:5px;
+  padding-right:5px;
+}
+
+#content{
+  background-color: blue;
+  height: 560px;
+}
+
+#bottom{
+  background-color: yellow;
+	height: 50px;
+  clear:both;
+  padding:1px;
+}

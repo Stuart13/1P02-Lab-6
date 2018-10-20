@@ -1,0 +1,22 @@
+body{
+	color:white;
+}
+
+#header{
+	padding-top: 7px;
+  background-color: red;
+	height:75px;
+	text-align:center;
+}
+
+#leftbody{
+	padding-top: 7px;
+	height: 500px;
+	background-color:green;
+}
+
+#bottom{
+	padding-top: 7px;
+	background-color: blue;
+	height:75px;
+}
