@@ -9,13 +9,13 @@ body{
 	text-align:center;
 }
 
-#leftbody{
+#leftside{
 	padding-top: 7px;
 	height: 500px;
 	background-color:green;
 }
 
-#bottom{
+#footer{
 	padding-top: 7px;
 	background-color: blue;
 	height:75px;
